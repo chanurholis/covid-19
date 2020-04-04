@@ -2,6 +2,7 @@
 <html>
 	<head>
 	<meta charset="utf-8">
+	 <meta name="dicoding:email" content="chachanurholis29@gmail.com">
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
 	<title>BasmiCorona</title>
 	<meta name="viewport" content="width=device-width, initial-scale=1">
