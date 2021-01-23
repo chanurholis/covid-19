@@ -18,10 +18,6 @@ class covidController extends Controller
         $sembuh = $indonesia->pluck('sembuh');
         $meninggal = $indonesia->pluck('meninggal');
 
-        // foreach ($positif as $item) {
-        //     $dataPositif = $item;
-        // }
-
         foreach ($sembuh as $item) {
             $dataSembuh = $item;
         }
