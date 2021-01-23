@@ -18,6 +18,10 @@ class covidController extends Controller
         $sembuh = $indonesia->pluck('sembuh');
         $meninggal = $indonesia->pluck('meninggal');
 
+        foreach ($positif as $item) {
+            $dataPositif = $item;
+        }
+
         foreach ($sembuh as $item) {
             $dataSembuh = $item;
         }
@@ -38,7 +42,7 @@ class covidController extends Controller
 
         return view('layouts.main', [
             'chart' => $chart,
-            'positif' => $positif,
+            'positif' => $dataPositif,
             'sembuh' => $dataSembuh,
             'meninggal' => $dataMeningal
         ]);
