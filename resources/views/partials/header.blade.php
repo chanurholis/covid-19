@@ -6,9 +6,9 @@
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
 	<title>BasmiCorona</title>
 	<meta name="viewport" content="width=device-width, initial-scale=1">
-	<meta name="description" content="" />
-	<meta name="keywords" content="" />
-	<meta name="author" content="" />
+	<meta name="description" content="BasmiCorona adalah situs yang menyediakan informasi mengenai COVID-19 di Indonesia." />
+	<meta name="keywords" content="Corona, Covid-19, Virus" />
+	<meta name="author" content="Chacha Nurholis" />
 
 	<!-- Facebook and Twitter integration -->
 	<meta property="og:title" content=""/>
