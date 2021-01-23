@@ -83,10 +83,11 @@
 						<div class="col-xs-8">
 							<div class="menu-1">
 								<ul>
-									<li class="active"><a href="#">Home</a></li>
-									<li><a href="#">Data</a></li>
-									<li><a href="#">Berita</a></li>
-									<li><a href="#">Contact</a></li>
+									<li><a href="#colorlib-services">Upaya Pencegahan</a></li>
+									<li><a href="#colorlib-about">Covid</a></li>
+									<li><a href="#colorlib-choose">Gejala</a></li>
+									<li><a href="#colorlib-testimonial">Pasien</a></li>
+									<li><a href="#colorlib-blog">Berita</a></li>
 								</ul>
 							</div>
 						</div>
