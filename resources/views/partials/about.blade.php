@@ -2,7 +2,7 @@
 		<div class="container">
 			<div class="row">
 				<div class="col-md-6 col-md-push-6 animate-box">
-					<img class="img-responsive about-img" src="assets/healthcare/images/about.png" alt="">
+					<img class="img-responsive about-img" src="healthcare/images/about.png" alt="">
 				</div>
 				<div class="col-md-6 col-md-pull-6 animate-box">
 					<h2>Apa itu COVID-19?</h2>

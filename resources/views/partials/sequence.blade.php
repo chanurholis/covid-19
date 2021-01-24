@@ -7,7 +7,7 @@
                     <div class="one-fifth no-border-bottom animate-box">
                         <div class="services">
                             <span class="icon">
-                                <img width="40px" height="45px" src="{{ asset('assets/icons/hand-wash.png') }}" alt="">
+                                <img width="40px" height="45px" src="{{ asset('icons/hand-wash.png') }}" alt="">
                             </span>
                             <div class="desc">
                                 <h3><a href="#">Sering cuci tangan</a></h3>
@@ -17,7 +17,7 @@
                     <div class="one-fifth no-border-bottom animate-box">
                         <div class="services">
                             <span class="icon">
-                                <img width="40px" height="45px" src="{{ asset('assets/icons/share.png') }}" alt="">
+                                <img width="40px" height="45px" src="{{ asset('icons/share.png') }}" alt="">
                             </span>
                             <div class="desc">
                                 <h3><a href="#">Jangan berbagi barang pribadi</a></h3>
@@ -27,7 +27,7 @@
                     <div class="one-fifth no-border-bottom animate-box">
                         <div class="services">
                             <span class="icon">
-                                <img width="40px" height="45px" src="{{ asset('assets/icons/distance.png') }}" alt="">
+                                <img width="40px" height="45px" src="{{ asset('icons/distance.png') }}" alt="">
                             </span>
                             <div class="desc">
                                 <h3><a href="#">Jaga jarak sosial</a></h3>
@@ -40,7 +40,7 @@
                     <div class="one-fifth animate-box">
                         <div class="services">
                             <span class="icon">
-                                <img width="40px" height="45px" src="{{ asset('assets/icons/coronavirus.png') }}" alt="">>
+                                <img width="40px" height="45px" src="{{ asset('icons/coronavirus.png') }}" alt="">>
                             </span>
                             <div class="desc">
                                 <h3><a href="#">Hindari keramaian</a></h3>
@@ -54,7 +54,7 @@
                                 <div class="one-fifth animate-box">
                                     <div class="services">
                                         <span class="icon">
-                                            <img width="40px" height="45px" src="{{ asset('assets/icons/coffee-break.png') }}" alt="">
+                                            <img width="40px" height="45px" src="{{ asset('icons/coffee-break.png') }}" alt="">
                                         </span>
                                         <div class="desc">
                                             <h3><a href="#">Istirahat</a></h3>
@@ -64,7 +64,7 @@
                                 <div class="one-fifth animate-box">
                                     <div class="services">
                                         <span class="icon">
-                                            <img width="40px" height="45px" src="{{ asset('assets/icons/housekeeping.png') }}" alt="">
+                                            <img width="40px" height="45px" src="{{ asset('icons/housekeeping.png') }}" alt="">
                                         </span>
                                         <div class="desc">
                                             <h3><a href="#">Mencuci bahan makanan</a></h3>

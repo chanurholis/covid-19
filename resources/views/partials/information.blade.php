@@ -2,7 +2,7 @@
     <div class="container-fluid">
         <div class="row">
             <div class="choose">
-                <div class="half img-bg" style="background-image: url(assets/healthcare/images/cover_bg_1.jpg);"></div>
+                <div class="half img-bg" style="background-image: url(healthcare/images/cover_bg_1.jpg);"></div>
                 <div class="half features-wrap">
                     <div class="features-services animate-box">
                         <div class="colorlib-heading animate-box">

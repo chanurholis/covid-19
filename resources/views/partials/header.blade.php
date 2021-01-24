@@ -23,34 +23,22 @@
 
 	<link href="https://fonts.googleapis.com/css?family=Poppins:300,400,500,600,700" rel="stylesheet">
 	
-	<link rel="icon" type="png/jpg" href="{{ secure_asset('assets/icons/indonesia.png') }}">
-	<!-- Animate.css -->
-	<link rel="stylesheet" href="{{ secure_asset('assets/healthcare/css/animate.css') }}">
+	<link rel="icon" type="png/jpg" href="{{ asset('icons/indonesia.png') }}">
+
+	<!-- Style -->
+	<link rel="stylesheet" href="{{ asset('css/app.css') }}">
+
 	<!-- Icomoon Icon Fonts-->
-	<link rel="stylesheet" href="{{ secure_asset('assets/healthcare/css/icomoon.css') }}">
-	<!-- Bootstrap  -->
-	<link rel="stylesheet" href="{{ secure_asset('assets/healthcare/css/bootstrap.css') }}">
-	<!-- Magnific Popup -->
-	<link rel="stylesheet" href="{{ secure_asset('assets/healthcare/css/magnific-popup.css') }}">
+	<link rel="stylesheet" href="{{ asset('healthcare/css/icomoon.css') }}">
+
 	<!-- Owl Carousel  -->
-	<link rel="stylesheet" href="{{ secure_asset('assets/healthcare/css/owl.carousel.min.css') }}">
-	<link rel="stylesheet" href="{{ secure_asset('assets/healthcare/css/owl.theme.default.min.css') }}">
-	<!-- Flexslider  -->
-	<link rel="stylesheet" href="{{ secure_asset('assets/healthcare/css/flexslider.css') }}">
-	<!-- Flaticons  -->
-	<link rel="stylesheet" href="{{ secure_asset('assets/healthcare/fonts/flaticon/font/flaticon.css') }}">
+	<link rel="stylesheet" href="{{ asset('healthcare/css/owl.carousel.min.css') }}">
+
 	<!-- Theme style  -->
-	<link rel="stylesheet" href="{{ secure_asset('assets/healthcare/css/style.css') }}">
+	<link rel="stylesheet" href="{{ asset('healthcare/css/style.css') }}">
 
 	<!-- Modernizr JS -->
-	<script src="{{ secure_asset('assets/healthcare/js/modernizr-2.6.2.min.js') }}"></script>
-	<!-- FOR IE9 below -->
-	<!--[if lt IE 9]>
-	<script src="js/respond.min.js"></script>
-	<![endif]-->
-
-	<!-- Modernizr JS -->
-	<script src="{{ secure_asset('assets/healthcare/js/modernizr-2.6.2.min.js') }}"></script>
+	<script src="{{ asset('healthcare/js/modernizr-2.6.2.min.js') }}"></script>
 	<!-- FOR IE9 below -->
 	<!--[if lt IE 9]>
 	<script src="js/respond.min.js"></script>

@@ -1,7 +1,7 @@
 <aside id="colorlib-hero">
     <div class="flexslider">
         <ul class="slides">
-        <li style="background-image: url(assets/healthcare/images/img_bg_6.jpg);">
+        <li style="background-image: url(healthcare/images/img_bg_6.jpg);">
             <div class="overlay"></div>
             <div class="container">
                 <div class="row">
@@ -14,7 +14,7 @@
                 </div>
             </div>
         </li>
-        <li style="background-image: url(assets/healthcare/images/img_bg_5.jpg);">
+        <li style="background-image: url(healthcare/images/img_bg_5.jpg);">
             <div class="overlay"></div>
             <div class="container">
                 <div class="row">
@@ -27,7 +27,7 @@
                 </div>
             </div>
         </li>
-        <li style="background-image: url(assets/healthcare/images/img_bg_1.jpg);">
+        <li style="background-image: url(healthcare/images/img_bg_1.jpg);">
             <div class="overlay"></div>
             <div class="container">
                 <div class="row">
@@ -40,7 +40,7 @@
                 </div>
             </div>
         </li>
-        <li style="background-image: url(assets/healthcare/images/img_bg_2.jpg);">
+        <li style="background-image: url(healthcare/images/img_bg_2.jpg);">
             <div class="overlay"></div>
             <div class="container">
                 <div class="row">
